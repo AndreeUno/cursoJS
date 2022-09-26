@@ -1,0 +1,100 @@
+[{
+        "id": "1",
+        "bloque": "bloque1",
+        "categoria": "categoria1",
+        "nombre": "Producto1",
+        "imagen": "prod1.jpg",
+        "descripcion": "descripcion01",
+        "precio": "1100",
+        "cal": "4",
+        "tags": ["tag1", "tag2", "tag3"]
+    },
+    {
+        "id": "2",
+        "bloque": "bloque2",
+        "categoria": "categoria2",
+        "nombre": "Producto2",
+        "imagen": "prod2.jpg",
+        "descripcion": "descripcion02",
+        "precio": "1200",
+        "cal": "4",
+        "tags": ["tag1", "tag2", "tag3"]
+    },
+    {
+        "id": "3",
+        "bloque": "bloque3",
+        "categoria": "categoria3",
+        "nombre": "Producto3",
+        "imagen": "prod3.jpg",
+        "descripcion": "descripcion03",
+        "precio": "1300",
+        "cal": "4",
+        "tags": ["tag1", "tag2", "tag3"]
+    },
+    {
+        "id": "4",
+        "bloque": "bloque4",
+        "categoria": "categoria4",
+        "nombre": "Producto4",
+        "imagen": "prod4.jpg",
+        "descripcion": "descripcion04",
+        "precio": "1400",
+        "cal": "4",
+        "tags": ["tag1", "tag2", "tag3"]
+    },
+    {
+        "id": "5",
+        "bloque": "bloque5",
+        "categoria": "categoria5",
+        "nombre": "Producto5",
+        "imagen": "prod5.jpg",
+        "descripcion": "descripcion05",
+        "precio": "1500",
+        "cal": "4",
+        "tags": ["tag1", "tag2", "tag3"]
+    },
+    {
+        "id": "6",
+        "bloque": "bloque6",
+        "categoria": "categoria6",
+        "nombre": "Producto6",
+        "imagen": "prod6.jpg",
+        "descripcion": "descripcion06",
+        "precio": "1600",
+        "cal": "4",
+        "tags": ["tag1", "tag2", "tag3"]
+    },
+    {
+        "id": "7",
+        "bloque": "bloque7",
+        "categoria": "categoria7",
+        "nombre": "Producto7",
+        "imagen": "prod7.jpg",
+        "descripcion": "descripcion07",
+        "precio": "1700",
+        "cal": "4",
+        "tags": ["tag1", "tag2", "tag3"]
+    },
+    {
+        "id": "8",
+        "bloque": "bloque8",
+        "categoria": "categoria8",
+        "nombre": "Producto8",
+        "imagen": "prod8.jpg",
+        "descripcion": "descripcion08",
+        "precio": "1800",
+        "cal": "4",
+        "tags": ["tag1", "tag2", "tag3"]
+    },
+    {
+        "id": "9",
+        "bloque": "bloque9",
+        "categoria": "categoria9",
+        "nombre": "Producto9",
+        "imagen": "prod9.jpg",
+        "descripcion": "descripcion09",
+        "precio": "1900",
+        "cal": "4",
+        "tags": ["tag1", "tag2", "tag3"]
+    }
+]
